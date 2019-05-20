@@ -1,6 +1,4 @@
-# MyTem 
-  
-![MyTem icon](https://github.com/GeminiJay/MyTem/blob/master/app/src/main/res/drawable/tumb.png)  
+![MyTem icon](https://github.com/GeminiJay/MyTem/blob/master/app/src/main/res/drawable/tumb.png) # MyTem 
   
 ## 目录   
 * [项目介绍](#项目介绍)  
